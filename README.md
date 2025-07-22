@@ -16,7 +16,7 @@ This project implements an Automatic Number Plate Recognition (ANPR) system usin
 
 6. Acknowledgments
 
-## Project Overview
+## Project Overview 
 This ANPR system detects and extracts the text from vehicle number plates in images and videos:
 
 Detection: Uses the YOLOv8 model to detect number plate regions.
